@@ -1,6 +1,6 @@
 # phpComDropzone
 
-Dropzone é uma biblioteca JavaScript que transforma qualquer elemento HTML em uma dropzone. Isso significa que um usuário pode arrastar e soltar um arquivo e pode tmb usar um CTRL+C (copiar) e CTRL+V (colar) para uma imagem, e o Dropzone exibirá visualizações do arquivo e o andamento do upload, e tratará do upload para você via XHR.
+Dropzone é uma biblioteca JavaScript que transforma qualquer elemento HTML em uma dropzone. Isso significa que um usuário pode arrastar e soltar, CTRL+C (copiar) e CTRL+V (colar) um arquivo, e o Dropzone exibirá visualizações do arquivo e o andamento do upload, e tratará do upload para você via XHR.
 
 É totalmente configurável, pode ser estilizado de acordo com suas necessidades e milhares de pessoas confiam.
 
